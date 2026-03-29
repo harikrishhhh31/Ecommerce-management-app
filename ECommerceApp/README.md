@@ -3,7 +3,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ECommerceApp/
@@ -85,7 +85,7 @@ For other MySQL configurations, modify the server, port, or credentials as neede
 
 ---
 
-## ✅ Features
+##  Features
 
 | Feature              | Details                                      |
 |----------------------|----------------------------------------------|
@@ -100,7 +100,7 @@ For other MySQL configurations, modify the server, port, or credentials as neede
 
 ---
 
-## 🗂️ Database Tables
+##  Database Tables
 
 **Categories**
 | Column      | Type         |
