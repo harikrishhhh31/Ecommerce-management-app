@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Fg7kfwZBZnlDLvKEqb9Hu3aOpZwNOWUeHLczmkdIoco=",
+  "Source": "ECommerceApp",
+  "BasePath": "_content/ECommerceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerceApp\\wwwroot",
+      "Source": "ECommerceApp",
+      "ContentRoot": "C:\\Users\\harikrishhhh\\OneDrive\\Attachments\\Desktop\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\harikrishhhh\\OneDrive\\Attachments\\Desktop\\ECommerceApp\\ECommerceApp\\wwwroot\\css\\site.css",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\harikrishhhh\\OneDrive\\Attachments\\Desktop\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
