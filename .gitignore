@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+[Ee]xpress/
+[Tt]est[Rr]esults/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Sensitive Data
+ECommerceApp/appsettings.json
+ECommerceApp/appsettings.Development.json
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+
+# Environments
+.env
+
+# IDE and OS
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
