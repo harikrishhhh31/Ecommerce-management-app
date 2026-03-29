@@ -1,15 +1,13 @@
 # .NET
-bin/
-obj/
-[Ee]xpress/
-[Tt]est[Rr]esults/
+**/bin/
+**/obj/
 *.user
 *.userosscache
 *.sln.docstates
 
 # Sensitive Data
-ECommerceApp/appsettings.json
-ECommerceApp/appsettings.Development.json
+**/appsettings.json
+**/appsettings.Development.json
 
 # Screenshots
 *.png
